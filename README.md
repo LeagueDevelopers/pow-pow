@@ -1,6 +1,8 @@
-# Riot API Redis Limiter
+# Pow Pow
 
 A Rate Limiter backed by Redis for use with Riot API projects
+
+`npm i --save pow-pow`
 
 ## Usage
 

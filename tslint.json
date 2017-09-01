@@ -1,0 +1,23 @@
+{
+  "extends": [
+    "tslint-config-airbnb",
+    "tslint-eslint-rules"
+  ],
+  "rules": {
+    "variable-name": [false],
+    "function-name": [false],
+    "space-before-function-paren": [
+      true,
+      "always"
+    ],
+    "align": [
+      false
+    ],
+    "trailing-comma": [false],
+    "ter-arrow-parens": [true, "as-needed"],
+    "import-name": [false],
+    "object-curly-spacing": [true, "always"],
+    "object-literal-key-quotes": [true, "as-needed"],
+    "max-line-length": [false]
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "pow-pow",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Redis-backed redis limiter for riot API",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
